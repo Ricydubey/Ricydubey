@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricydubey&label=Profile%20views&color=0e75b6&style=flat" alt="ricydubey" /> </p>
 
-- 🔭 I’m currently studying **computer science**
+- 🔭 I’m currently searching a job
 
-- 🌱 I’m currently learning **full-stack web dovelopement (Python/Django )**
+- 🌱 **full-stack web dovelopement (Python/Django )**
 
 - ⚡ Fun fact **i'm funny**
 
